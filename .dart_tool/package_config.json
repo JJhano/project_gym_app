@@ -32,10 +32,10 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "cupertino_icons",
-      "rootUri": "file:///home/jhano/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
+      "name": "english_words",
+      "rootUri": "file:///home/jhano/.pub-cache/hosted/pub.dev/english_words-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -86,8 +86,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///home/jhano/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/jhano/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///home/jhano/.pub-cache/hosted/pub.dev/provider-6.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -146,13 +158,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "project",
+      "name": "namer_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-11-13T03:47:48.798239Z",
+  "generated": "2023-11-13T03:51:45.563136Z",
   "generator": "pub",
   "generatorVersion": "3.1.5"
 }

@@ -9,4 +9,3 @@
 /home/jhano/Documentos/Programacion/Proyectos/project_gym_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/jhano/Documentos/Programacion/Proyectos/project_gym_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/jhano/Documentos/Programacion/Proyectos/project_gym_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
-/home/jhano/Documentos/Programacion/Proyectos/project_gym_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
